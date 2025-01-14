@@ -12,9 +12,13 @@ body {
 }
 
 h1 {
-    margin-top: 20px;
+    margin-top: 400px;
     font-size: 80px;
     margin-bottom: 80px;
+}
+
+#lastPageh1{ 
+    margin-top: 25px;
 }
 
 h3 {
@@ -39,12 +43,13 @@ footer {
 }
 
 img {
-    margin-top: 10px;
+    margin-top: 30px;
     border-radius: 20px;
+    width: 250px;
 }
 
 video {
-    margin-bottom: -125px;
+    margin-bottom: -150px;
 }
 
 .footerText{
