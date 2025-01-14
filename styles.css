@@ -1,0 +1,49 @@
+*{
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+
+body {
+    background-image: url('BeMine2.jpeg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+h1 {
+    margin-top: 400px;
+    font-size: 80px;
+    margin-bottom: 80px;
+}
+
+h3 {
+    font-size: 30px;
+    margin-bottom: 20px;
+}
+h4 {
+    font-size: 20px;
+    margin-bottom: 20px;
+}
+
+button{
+    margin-top: 50px;
+    width: 100px;
+    height: 40px;
+    font-size: 20px;
+}
+
+footer {
+    margin-top: 480px;
+    margin-bottom: 80px;
+}
+
+video {
+    margin-bottom: -115px;
+}
+
+.footerText{
+   margin-left: 740px;
+   font-size: 18px;
+   font-weight: bold;
+}
